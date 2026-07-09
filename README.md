@@ -1,1 +1,2 @@
 # SimpleCustomerApp
+new line added
